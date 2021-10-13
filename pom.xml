@@ -18,6 +18,7 @@
     <modules>
         <module>web</module>
         <module>provider</module>
+        <module>my-watchdog-lock</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
